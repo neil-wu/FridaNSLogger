@@ -1,0 +1,4 @@
+*.DS_Store
+fridaagent/_agent.js
+fridaagent/node_modules/*
+MacViewerSource/NSLoggerViewer.xcodeproj/project.xcworkspace/xcuserdata/*
